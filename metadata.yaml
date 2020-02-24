@@ -1,0 +1,33 @@
+_repo: With-Lawrence-in-Arabia_61428
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thomas, Lowell
+    alias: Thomas, Lowell Jackson
+    birthdate: 1892
+    deathdate: 1981
+    gutenberg_agent_id: '51420'
+    url: http://www.gutenberg.org/2009/agents/51420
+    wikipedia: https://en.wikipedia.org/wiki/Lowell_Thomas
+description: ''
+gutenberg_issued: '2020-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61428'
+  lccn: '24022807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'British -- Middle East -- History -- 20th century'
+- !lcsh 'World War, 1914-1918 -- Arab countries'
+- !lcsh 'Soldiers -- Great Britain -- Biography'
+- !lcsh 'Middle East specialists -- Great Britain -- Biography'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Middle East'
+- !lcsh 'Archaeologists -- Middle East -- Biography'
+- !lcsh 'Lawrence, T. E. (Thomas Edward), 1888-1935'
+- GITenberg
+title: With Lawrence in Arabia
+url: http://www.gutenberg.org/ebooks/61428
